@@ -1,8 +1,13 @@
 # surfs_up
 
-##Overview of the analysis:
+## Overview of the analysis:
 
-The purpose of analysis is to find the temperatures for the months of June and December in Oahu in order to determine if the surf and ice cream shop business is sustainable year-round.
+Analyze the temperature trends for the months of June and December in Oahu, in order to evaluate the year-round sustainability of a surf and ice cream shop business.
+We used Python, Pandas, SQLite and SQLAlchemy for this analysis.
+
+## Resources:
+Data Sources: hawaii.sqlite
+Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 
 ## Results: 
 
